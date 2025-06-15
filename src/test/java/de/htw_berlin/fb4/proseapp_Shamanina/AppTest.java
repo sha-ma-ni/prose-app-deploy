@@ -1,3 +1,12 @@
+/*
+ * Copyright (c) 2025 Lyubov Shamanina
+ * SPDX-License-Identifier: MIT
+ *
+ * This file is part of prose-app-deploy.
+ *
+ * This software is released under the MIT License.
+ * See the LICENSE file in the project root for full license information.
+ */
 package de.htw_berlin.fb4.proseapp_Shamanina;
 
 import junit.framework.Test;

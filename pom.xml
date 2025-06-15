@@ -8,7 +8,7 @@
     <repository> 
       <id>sha-ma-ni.github</id> 
       <name>GitHub Packages</name> 
-      <url>https://maven.pkg.github.com/sha-ma-ni/prose-deploy</url> 
+      <url>https://maven.pkg.github.com/sha-ma-ni/prose-app-deploy</url>
     </repository> 
   </distributionManagement> 
     <build>
