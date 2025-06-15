@@ -25,5 +25,5 @@ Dieses Projekt verwendet **keine kryptografischen Funktionen** oder sicherheitsr
 
 ## Danksagung
 
-Das Projekt basiert auf Konzepten und Interfaces, die in der Bibliothek `prose-builder` entwickelt wurden.  
+Das Projekt basiert auf Konzepten und Interfaces, die in der Bibliothek `prose-builder` entwickelt wurden: https://github.com/bs-jokri/prose-builder/packages/2501136  
 Ein besonderer Dank gilt der Open-Source-Community für ihre Werkzeuge und Infrastruktur.

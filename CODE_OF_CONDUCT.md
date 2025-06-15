@@ -1,4 +1,4 @@
-# Verhaltenskodex – CODE OF CONDUCT
+# CODE OF CONDUCT
 
 ## Unser Versprechen
 
