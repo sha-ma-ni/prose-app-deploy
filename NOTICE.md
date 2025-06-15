@@ -13,7 +13,7 @@ Sprache: Java 17+
 
 ## Verwendete Lizenzen
 
-**MIT-Lizenz** (siehe LICENSE.MIT)
+**MIT-Lizenz** (siehe LICENSE.LICENSE)
 
 ---
 
