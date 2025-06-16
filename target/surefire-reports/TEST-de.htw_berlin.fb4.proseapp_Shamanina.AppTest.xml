@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="de.htw_berlin.fb4.proseapp_Shamanina.AppTest" time="0.041" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="de.htw_berlin.fb4.proseapp_Shamanina.AppTest" time="0.049" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="24"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="DE"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-24\bin"/>
-    <property name="sun.java.command" value="C:\Users\lsfed\AppData\Local\Temp\surefire1265719595368196735\surefirebooter-20250526132551552_3.jar C:\Users\lsfed\AppData\Local\Temp\surefire1265719595368196735 2025-05-26T13-25-51_378-jvmRun1 surefire-20250526132551552_1tmp surefire_0-20250526132551552_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\lsfed\AppData\Local\Temp\surefire5722382218794717249\surefirebooter-20250615150925299_3.jar C:\Users\lsfed\AppData\Local\Temp\surefire5722382218794717249 2025-06-15T15-09-25_074-jvmRun1 surefire-20250615150925299_1tmp surefire_0-20250615150925299_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\lsfed\Documents\HTW\IKT2025\my-prose-app\prose-app\target\test-classes;C:\Users\lsfed\Documents\HTW\IKT2025\my-prose-app\prose-app\target\classes;C:\Users\lsfed\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\lsfed\.m2\repository\de\htw_berlin\fb4\ossd\prose_builder\1.0-SNAPSHOT\prose_builder-1.0-SNAPSHOT.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\lsfed\AppData\Local\Temp\surefire1265719595368196735\surefirebooter-20250526132551552_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\lsfed\AppData\Local\Temp\surefire5722382218794717249\surefirebooter-20250615150925299_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="24.0.1+9-30"/>
@@ -50,7 +50,7 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1251"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-24\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\xampp\php;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\dotnet\;&quot;C:\WINDOWS\system32;C:\WINDOWS\system32\WBEMNote&quot;;C:\Program Files\PostgreSQL\15\bin;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Programm\Maven\apache-maven-3.9.9\bin;C:\Program Files\Java\jdk-24\\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\lsfed\AppData\Local\Microsoft\WindowsApps;C:\Users\lsfed\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PhpStorm 2021.2.3\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.3\bin;C:\Users\lsfed\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;C:\Users\lsfed\AppData\Local\gitkraken\bin;C:\Users\lsfed\AppData\Local\Microsoft\WindowsApps;C:\Users\lsfed\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\lsfed\AppData\Roaming\npm;C:\Program Files\JetBrains\PhpStorm 2025.1.0.1\bin;C:\Users\lsfed\AppData\Local\JetBrains\Toolbox\scripts;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-24\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\lsfed\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\lsfed\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\xampp\php;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files (x86)\dotnet;C:\WINDOWS\system3;C:\WINDOWS\system32\WBEMNote&quot;;C:\Program Files\PostgreSQL\15\bin;C:\Program Files\dotnet;C:\Program Files\nodejs;C:\Programm\Maven\apache-maven-3.9.9\bin;C:\Program Files\Java\jdk-24\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\lsfed\AppData\Local\Microsoft\WindowsApps;C:\Users\lsfed\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PhpStorm 2021.2.3\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.3\bin;C:\Users\lsfed\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin;C:\Users\lsfed\AppData\Local\gitkraken\bin;C:\Users\lsfed\AppData\Local\Microsoft\WindowsApps;C:\Users\lsfed\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\lsfed\AppData\Roaming\npm;C:\Program Files\JetBrains\PhpStorm 2025.1.0.1\bin;C:\Users\lsfed\AppData\Local\JetBrains\Toolbox\scripts;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="stderr.encoding" value="Cp1251"/>
     <property name="java.vendor" value="Oracle Corporation"/>
@@ -58,5 +58,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="68.0"/>
   </properties>
-  <testcase name="testApp" classname="de.htw_berlin.fb4.proseapp_Shamanina.AppTest" time="0.004"/>
+  <testcase name="testApp" classname="de.htw_berlin.fb4.proseapp_Shamanina.AppTest" time="0.007"/>
 </testsuite>
