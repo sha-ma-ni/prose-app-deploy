@@ -18,8 +18,8 @@ import java.util.List;
 public class App 
 {
     public static void main(String[] args) {
-        Sentence s1 = new SimpleSentence("Hello world");
-        Sentence s2 = new SimpleSentence("GitHub Packages are cool");
+        Sentence s1 = new SimpleSentence("Ich habe meinem Wecker verboten zu klingeln");
+        Sentence s2 = new SimpleSentence("Jetzt bellt er nur noch leise wie ein schuechterner Pudding!");
 
         Prose prose = new SimpleProse(List.of(s1, s2));
 
