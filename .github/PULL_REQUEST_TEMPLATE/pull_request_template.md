@@ -1,4 +1,4 @@
-## 📝 Beschreibung
+## Beschreibung
 
 Bitte beschreibe, was dieser Pull Request ändert oder hinzufügt.
 
