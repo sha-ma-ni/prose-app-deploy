@@ -9,15 +9,15 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
-  - type: input
-    id: contact
-    attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
+        # Bug Report
+        Thank you for taking the time to report a bug! 
+        Please fill out this form as detailed as possible 
+        so we can identify and fix the issue quickly.
+        
+        Before proceeding, please check:
+        - [ ] I have searched for similar issues
+        - [ ] I am using the latest version of the software
+        - [ ] I can reproduce the problem
   - type: textarea
     id: what-happened
     attributes:
@@ -25,6 +25,18 @@ body:
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
       value: "A bug happened!"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to Reproduce
+      description: Describe the steps that lead to the bug
+      placeholder: |
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
     validations:
       required: true
   - type: dropdown
@@ -36,6 +48,17 @@ body:
         - 1.0.2 (Default)
         - 1.0.3 (Edge)
       default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating System
+      options:
+        - Windows
+        - macOS
+        - Linux
+        - Other
     validations:
       required: true
   - type: dropdown
@@ -54,6 +77,14 @@ body:
       label: Relevant log output
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: shell
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
   - type: checkboxes
     id: terms
     attributes:
