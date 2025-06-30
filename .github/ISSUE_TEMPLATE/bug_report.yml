@@ -39,12 +39,6 @@ body:
         4. See error
     validations:
       required: true
-  - type: textarea
-    id: screenshots
-    attributes:
-      label: Screenshots or Videos
-      description: If applicable, add screenshots or videos to help explain your problem
-      placeholder: You can drag & drop images here
   - type: dropdown
     id: version
     attributes:
